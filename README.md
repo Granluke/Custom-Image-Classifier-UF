@@ -5,7 +5,7 @@
     <img src="images/uf_europe_logo.png" alt="Logo" width="150" height="150">
   </a>
 
-  <h3 align="center">UF Europe Final Project</h3>
+  <h3 align="center">UF Image Classifer Final Project 2021</h3>
 
   <p align="center">
     The README to the Image Classifying Project
